@@ -1,7 +1,7 @@
-## Portfolio
+# Akif Tugcu
 
 
-# Project 1
+### About
 test test test
 
 #Project 2
